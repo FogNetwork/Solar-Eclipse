@@ -1,0 +1,22 @@
+{
+  "name": "solar-eclipse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "css-tree": "^2.0.4",
+    "express": "^4.17.1",
+    "fake-useragent": "^1.0.1",
+    "jsdom": "^19.0.0",
+    "mkcert": "^1.5.0",
+    "node-fetch": "^2.1.0",
+    "pem": "^1.14.6"
+  }
+}
