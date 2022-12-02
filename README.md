@@ -1,5 +1,5 @@
 # Solar Eclipse
-Eclipse but without TOMP. This was made before the current version of Eclipse and will not was abandoned.
+Eclipse but without TOMP. This was made before the current version of Eclipse and was abandoned.
 
 ## To Do
 - Better Js rewriting (parser)
